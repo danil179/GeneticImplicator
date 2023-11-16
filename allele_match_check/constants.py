@@ -1,0 +1,1 @@
+TOTAL_FREQ = 0
