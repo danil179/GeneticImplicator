@@ -1,5 +1,7 @@
 ## Background
-This reporistory was done as part of a research project for genetic matching. It supposed to improve the problem of finding the best implicated genetic haplotypes when the data of some relatives is known and the sample has too many ambiguities. Currently I believe that better solutions exist using hidden markov models with machine learning on actual data. Adiditonally, as the genetic sequencing is now improving and of much lesser cost than the past there are much less ambiguities.
+This reporistory was done as part of a research project for genetic matching. It supposed to improve the problem of finding the best implicated genetic haplotypes when the data of some relatives is known and the sample has too many ambiguities. Currently I believe that better solutions exist using hidden markov models with machine learning on actual data. Additionally, as genetic sequencing is now improving, and of much lower cost than the past, there are much less ambiguities in the genetic samples and such solutions are not needed. The algorithmic solution is still valuable as in the view of privacy it may be benficial to use much less "identifying" genetic sequencing methods.
+
+The project requires confidential genetic files to run. Therefore, it will probably be impossible to run.
 
 ## Running & Dependencies
 To run this project you will need these libraries:
